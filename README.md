@@ -25,11 +25,13 @@
       <tr>
         <td>Diretórios de referência:</td>
         <td>
-        		<a href="#">Diretório 01</a>
-<!--         		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main">Diretório 02</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-blog">Diretório 03</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main/C9%20-%20Rotas/rotas">Diretório 04</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone">Diretório 05</a> -->
+		<ul align="center">
+        		<li></li><a href="https://github.com/micheleambrosio/trilha-css-desafio-01">Diretório 01</a></ul>
+        		<li><a href="#">Diretório 02</a></li>
+        		<li><a href="#">Diretório 03</a></li>
+        		<li><a href="#">Diretório 04</a></li>
+        		<li><a href="#">Diretório 05</a></li>
+		</ul>
         </td>
       </tr>
       <tr>
